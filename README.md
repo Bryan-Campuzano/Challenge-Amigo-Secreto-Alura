@@ -1,4 +1,4 @@
-# 🎁 Amigo Secreto Challenge - Oracle ONE �
+# 🎁 Amigo Secreto Challenge - Oracle ONE
 
 ![Texto alternativo](https://github.com/Bryan-Campuzano/Challenge-Amigo-Secreto-Alura/blob/master/Presentaci%C3%B3n%20sin%20t%C3%ADtulo.jpg)
 
@@ -35,8 +35,8 @@ Este proyecto está bajo la licencia MIT.
 
 ---
 
-🙌 Créditos
+## 🙌 **Créditos**
 
-    Desarrollado con ❤️ por Tu Bryan Campuzano.
+Desarrollado con ❤️ por Bryan Campuzano.
 
-    Inspirado en el Challenge de Oracle ONE.
+Inspirado en el Challenge de Oracle ONE.
