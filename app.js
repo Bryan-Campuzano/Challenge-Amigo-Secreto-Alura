@@ -47,11 +47,3 @@ function sortearAmigo(){
     }
     return;
 }
-
-// funcion para asignar un texto a un elemento html
-
-function asignarTextoElemento(elemento,texto){
-    let elementoHTML = document.querySelector(elemento);
-    elementoHTML.innerHTML = texto;
-    return;
-}
